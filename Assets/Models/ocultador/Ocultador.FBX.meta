@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: c7cd67a5bcfc1de429bfba643737495b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 0hso_mnoi_fal01
+    100002: Bip01
+    100004: Bip01 Footsteps
+    100006: Bip01 HeadNub
+    100008: Bip01 L Finger0Nub
+    100010: Bip01 L Finger1Nub
+    100012: Bip01 L Finger2Nub
+    100014: Bip01 L Finger3Nub
+    100016: Bip01 L Toe0Nub
+    100018: Bip01 L Toe1Nub
+    100020: Bip01 L Toe2Nub
+    100022: Bip01 R Finger0Nub
+    100024: Bip01 R Finger1Nub
+    100026: Bip01 R Finger2Nub
+    100028: Bip01 R Finger3Nub
+    100030: Bip01 R Toe0Nub
+    100032: Bip01 R Toe1Nub
+    100034: Bip01 R Toe2Nub
+    100036: Bip01 TailNub
+    100038: Bip01 Xtra01Nub
+    100040: hso_atzd
+    100042: hso_atzi
+    100044: hso_bzod
+    100046: hso_bzoi
+    100048: hso_cbz
+    100050: 'hso_cbz_bca '
+    100052: hso_cda
+    100054: hso_cla1
+    100056: hso_cla2
+    100058: hso_cla3
+    100060: hso_cll
+    100062: hso_empd
+    100064: hso_empi
+    100066: hso_hbod
+    100068: hso_hboi
+    100070: hso_mlod
+    100072: hso_mloi
+    100074: hso_mnod
+    100076: hso_mnod_fal01
+    100078: hso_mnod_fal02
+    100080: hso_mnod_fal03
+    100082: hso_mnod_fal11
+    100084: hso_mnod_fal12
+    100086: hso_mnod_fal13
+    100088: hso_mnod_fal21
+    100090: hso_mnod_fal22
+    100092: hso_mnod_fal23
+    100094: hso_mnod_fal31
+    100096: hso_mnod_fal32
+    100098: hso_mnod_fal33
+    100100: hso_mnoi
+    100102: hso_mnoi_fal02
+    100104: hso_mnoi_fal03
+    100106: hso_mnoi_fal11
+    100108: hso_mnoi_fal12
+    100110: hso_mnoi_fal13
+    100112: hso_mnoi_fal21
+    100114: hso_mnoi_fal22
+    100116: hso_mnoi_fal23
+    100118: hso_mnoi_fal31
+    100120: hso_mnoi_fal32
+    100122: hso_mnoi_fal33
+    100124: hso_pied
+    100126: hso_pied_fal01
+    100128: hso_pied_fal02
+    100130: hso_pied_fal03
+    100132: hso_pied_fal11
+    100134: hso_pied_fal12
+    100136: hso_pied_fal13
+    100138: hso_pied_fal21
+    100140: hso_pied_fal22
+    100142: hso_pied_fal23
+    100144: hso_piei
+    100146: hso_piei_fal01
+    100148: hso_piei_fal02
+    100150: hso_piei_fal03
+    100152: hso_piei_fal11
+    100154: hso_piei_fal12
+    100156: hso_piei_fal13
+    100158: hso_piei_fal21
+    100160: hso_piei_fal22
+    100162: hso_piei_fal23
+    100164: 'hso_pnad '
+    100166: hso_pnai
+    100168: hso_tail1
+    100170: hso_tail2
+    100172: hso_tail3
+    100174: hso_tail4
+    100176: hso_tail5
+    100178: hso_tail6
+    100180: //RootNode
+    100182: OCULTADOR_LOW
+    400000: 0hso_mnoi_fal01
+    400002: Bip01
+    400004: Bip01 Footsteps
+    400006: Bip01 HeadNub
+    400008: Bip01 L Finger0Nub
+    400010: Bip01 L Finger1Nub
+    400012: Bip01 L Finger2Nub
+    400014: Bip01 L Finger3Nub
+    400016: Bip01 L Toe0Nub
+    400018: Bip01 L Toe1Nub
+    400020: Bip01 L Toe2Nub
+    400022: Bip01 R Finger0Nub
+    400024: Bip01 R Finger1Nub
+    400026: Bip01 R Finger2Nub
+    400028: Bip01 R Finger3Nub
+    400030: Bip01 R Toe0Nub
+    400032: Bip01 R Toe1Nub
+    400034: Bip01 R Toe2Nub
+    400036: Bip01 TailNub
+    400038: Bip01 Xtra01Nub
+    400040: hso_atzd
+    400042: hso_atzi
+    400044: hso_bzod
+    400046: hso_bzoi
+    400048: hso_cbz
+    400050: 'hso_cbz_bca '
+    400052: hso_cda
+    400054: hso_cla1
+    400056: hso_cla2
+    400058: hso_cla3
+    400060: hso_cll
+    400062: hso_empd
+    400064: hso_empi
+    400066: hso_hbod
+    400068: hso_hboi
+    400070: hso_mlod
+    400072: hso_mloi
+    400074: hso_mnod
+    400076: hso_mnod_fal01
+    400078: hso_mnod_fal02
+    400080: hso_mnod_fal03
+    400082: hso_mnod_fal11
+    400084: hso_mnod_fal12
+    400086: hso_mnod_fal13
+    400088: hso_mnod_fal21
+    400090: hso_mnod_fal22
+    400092: hso_mnod_fal23
+    400094: hso_mnod_fal31
+    400096: hso_mnod_fal32
+    400098: hso_mnod_fal33
+    400100: hso_mnoi
+    400102: hso_mnoi_fal02
+    400104: hso_mnoi_fal03
+    400106: hso_mnoi_fal11
+    400108: hso_mnoi_fal12
+    400110: hso_mnoi_fal13
+    400112: hso_mnoi_fal21
+    400114: hso_mnoi_fal22
+    400116: hso_mnoi_fal23
+    400118: hso_mnoi_fal31
+    400120: hso_mnoi_fal32
+    400122: hso_mnoi_fal33
+    400124: hso_pied
+    400126: hso_pied_fal01
+    400128: hso_pied_fal02
+    400130: hso_pied_fal03
+    400132: hso_pied_fal11
+    400134: hso_pied_fal12
+    400136: hso_pied_fal13
+    400138: hso_pied_fal21
+    400140: hso_pied_fal22
+    400142: hso_pied_fal23
+    400144: hso_piei
+    400146: hso_piei_fal01
+    400148: hso_piei_fal02
+    400150: hso_piei_fal03
+    400152: hso_piei_fal11
+    400154: hso_piei_fal12
+    400156: hso_piei_fal13
+    400158: hso_piei_fal21
+    400160: hso_piei_fal22
+    400162: hso_piei_fal23
+    400164: 'hso_pnad '
+    400166: hso_pnai
+    400168: hso_tail1
+    400170: hso_tail2
+    400172: hso_tail3
+    400174: hso_tail4
+    400176: hso_tail5
+    400178: hso_tail6
+    400180: //RootNode
+    400182: OCULTADOR_LOW
+    4300000: OCULTADOR_LOW
+    7400000: Take 001
+    7400002: Reposo
+    7400004: Andar
+    7400006: Correr
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: OCULTADOR_LOW
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Reposo
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Footsteps
+        weight: 1
+      - path: Bip01/hso_cda
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/Bip01 HeadNub
+        weight: 1
+      - path: 'Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/hso_cbz_bca '
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/hso_cbz_bca
+          /Bip01 Xtra01Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02/hso_mnod_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02/hso_mnod_fal03/Bip01
+          R Finger0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12/hso_mnod_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12/hso_mnod_fal13/Bip01
+          R Finger1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22/hso_mnod_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22/hso_mnod_fal23/Bip01
+          R Finger2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32/hso_mnod_fal33
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32/hso_mnod_fal33/Bip01
+          R Finger3Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02/hso_mnoi_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02/hso_mnoi_fal03/Bip01
+          L Finger0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12/hso_mnoi_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12/hso_mnoi_fal13/Bip01
+          L Finger1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22/hso_mnoi_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22/hso_mnoi_fal23/Bip01
+          L Finger2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32/hso_mnoi_fal33
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32/hso_mnoi_fal33/Bip01
+          L Finger3Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod
+        weight: 1
+      - path: 'Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad '
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02/hso_pied_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02/hso_pied_fal03/Bip01
+          R Toe2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12/hso_pied_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12/hso_pied_fal13/Bip01
+          R Toe1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22/hso_pied_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22/hso_pied_fal23/Bip01
+          R Toe0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02/hso_piei_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02/hso_piei_fal03/Bip01
+          L Toe2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12/hso_piei_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12/hso_piei_fal13/Bip01
+          L Toe1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22/hso_piei_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22/hso_piei_fal23/Bip01
+          L Toe0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5/hso_tail6
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5/hso_tail6/Bip01
+          TailNub
+        weight: 1
+      - path: OCULTADOR_LOW
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Andar
+      takeName: Take 001
+      firstFrame: 99
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Footsteps
+        weight: 1
+      - path: Bip01/hso_cda
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/Bip01 HeadNub
+        weight: 1
+      - path: 'Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/hso_cbz_bca '
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/hso_cbz_bca
+          /Bip01 Xtra01Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02/hso_mnod_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02/hso_mnod_fal03/Bip01
+          R Finger0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12/hso_mnod_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12/hso_mnod_fal13/Bip01
+          R Finger1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22/hso_mnod_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22/hso_mnod_fal23/Bip01
+          R Finger2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32/hso_mnod_fal33
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32/hso_mnod_fal33/Bip01
+          R Finger3Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02/hso_mnoi_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02/hso_mnoi_fal03/Bip01
+          L Finger0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12/hso_mnoi_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12/hso_mnoi_fal13/Bip01
+          L Finger1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22/hso_mnoi_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22/hso_mnoi_fal23/Bip01
+          L Finger2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32/hso_mnoi_fal33
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32/hso_mnoi_fal33/Bip01
+          L Finger3Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod
+        weight: 1
+      - path: 'Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad '
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02/hso_pied_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02/hso_pied_fal03/Bip01
+          R Toe2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12/hso_pied_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12/hso_pied_fal13/Bip01
+          R Toe1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22/hso_pied_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22/hso_pied_fal23/Bip01
+          R Toe0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02/hso_piei_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02/hso_piei_fal03/Bip01
+          L Toe2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12/hso_piei_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12/hso_piei_fal13/Bip01
+          L Toe1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22/hso_piei_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22/hso_piei_fal23/Bip01
+          L Toe0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5/hso_tail6
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5/hso_tail6/Bip01
+          TailNub
+        weight: 1
+      - path: OCULTADOR_LOW
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Correr
+      takeName: Take 001
+      firstFrame: 144
+      lastFrame: 163
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Footsteps
+        weight: 1
+      - path: Bip01/hso_cda
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/Bip01 HeadNub
+        weight: 1
+      - path: 'Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/hso_cbz_bca '
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_cbz/hso_cbz_bca
+          /Bip01 Xtra01Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02/hso_mnod_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal01/hso_mnod_fal02/hso_mnod_fal03/Bip01
+          R Finger0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12/hso_mnod_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal11/hso_mnod_fal12/hso_mnod_fal13/Bip01
+          R Finger1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22/hso_mnod_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal21/hso_mnod_fal22/hso_mnod_fal23/Bip01
+          R Finger2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32/hso_mnod_fal33
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hbod/hso_bzod/hso_atzd/hso_mnod/hso_mnod_fal31/hso_mnod_fal32/hso_mnod_fal33/Bip01
+          R Finger3Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02/hso_mnoi_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/0hso_mnoi_fal01/hso_mnoi_fal02/hso_mnoi_fal03/Bip01
+          L Finger0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12/hso_mnoi_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal11/hso_mnoi_fal12/hso_mnoi_fal13/Bip01
+          L Finger1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22/hso_mnoi_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal21/hso_mnoi_fal22/hso_mnoi_fal23/Bip01
+          L Finger2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32/hso_mnoi_fal33
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_cla2/hso_cla3/hso_cll/hso_hboi/hso_bzoi/hso_atzi/hso_mnoi/hso_mnoi_fal31/hso_mnoi_fal32/hso_mnoi_fal33/Bip01
+          L Finger3Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod
+        weight: 1
+      - path: 'Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad '
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02/hso_pied_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal01/hso_pied_fal02/hso_pied_fal03/Bip01
+          R Toe2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12/hso_pied_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal11/hso_pied_fal12/hso_pied_fal13/Bip01
+          R Toe1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22/hso_pied_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mlod/hso_pnad /hso_empd/hso_pied/hso_pied_fal21/hso_pied_fal22/hso_pied_fal23/Bip01
+          R Toe0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02/hso_piei_fal03
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal01/hso_piei_fal02/hso_piei_fal03/Bip01
+          L Toe2Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12/hso_piei_fal13
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal11/hso_piei_fal12/hso_piei_fal13/Bip01
+          L Toe1Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22/hso_piei_fal23
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_mloi/hso_pnai/hso_empi/hso_piei/hso_piei_fal21/hso_piei_fal22/hso_piei_fal23/Bip01
+          L Toe0Nub
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5/hso_tail6
+        weight: 1
+      - path: Bip01/hso_cda/hso_cla1/hso_tail1/hso_tail2/hso_tail3/hso_tail4/hso_tail5/hso_tail6/Bip01
+          TailNub
+        weight: 1
+      - path: OCULTADOR_LOW
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
